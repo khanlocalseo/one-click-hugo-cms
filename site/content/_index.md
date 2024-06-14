@@ -1,6 +1,6 @@
 ---
 title: "Best Local SEO Website in USA Help you to Grow your Business"
-subtitle: Elevate Your Business with the Best Local SEO Website in the USA: Unleash Your Growth Potential Today! 
+subtitle: Elevate Your Business with the Best Local SEO Website in the USA
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
