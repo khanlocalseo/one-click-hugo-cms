@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Best Local SEO Website in USA Help you to Grow your Business"
+subtitle: Elevate Your Business with the Best Local SEO Website in the USA: Unleash Your Growth Potential Today! 
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
